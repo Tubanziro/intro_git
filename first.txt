@@ -2,3 +2,4 @@ git練習
 ワーク不老を学ぼう
 ・gitadd
  git commit
+git add
