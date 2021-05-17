@@ -3,3 +3,4 @@ git練習
 ・gitadd
  git commit
 git add
+git status
